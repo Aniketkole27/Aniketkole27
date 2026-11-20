@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Aniket Kole 👋</h1>
 
-<h3 align="center">Full-Stack Developer • Building scalable, real-world systems</h3>
+<h3 align="center">Full-Stack JavaScript / TypeScript Developer</h3>
 
 <p align="center">
-New day. New build. I explore full-stack architecture end to end — from database schema to pixel-perfect UI — and I care about writing code that stays maintainable as it grows.
+I build practical web applications with React, TypeScript, Node.js, and modern backend technologies. I enjoy turning real-world requirements into maintainable, scalable products.
 </p>
 
 <p align="center">
@@ -16,19 +16,23 @@ New day. New build. I explore full-stack architecture end to end — from databa
   <a href="https://x.com/AniketKole36895" target="_blank">
     <img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white" />
   </a>
-  <a href="mailto:aniketkole818@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
 </p>
 
 ---
 
-### 🚀 What I'm Doing
+### 🚀 What I'm Building
 
-- 🔭 Currently building and documenting **full-stack projects** with real-world architecture patterns
-- 📚 Maintaining [**React A→Z Revision**](https://github.com/Aniketkole27/React-Revision-A-Z) — a 14-phase, in-depth React revision guide from fundamentals to advanced/interview concepts
-- 🌱 Deepening my knowledge of **scalable backend systems**, authentication, and clean architecture
-- 💬 Happy to talk full-stack architecture, React internals, or system design — feel free to reach out
+- 🔭 Building and documenting full-stack applications with real-world architecture patterns
+- 📚 Maintaining [**React A→Z Revision**](https://github.com/Aniketkole27/React-Revision-A-Z), a structured guide from fundamentals to advanced and interview concepts
+- 🌱 Deepening my knowledge of scalable backend systems, authentication, testing, and clean architecture
+- 🤝 Open to collaboration on useful web applications and developer-focused projects
+
+### ⭐ Selected Projects
+
+- [**Task Distribution System**](https://github.com/Aniketkole27/Task-Distribution-System) — MERN task and team management platform with authentication, roles, projects, and an admin dashboard
+- [**Evaluation Report Generator**](https://github.com/Aniketkole27/Evaluation-Report-Generator) — AI-powered platform for online exams, technical interviews, and student assessment
+- [**MH20 Deadlift**](https://github.com/Aniketkole27/MH20-Deadlift) — TypeScript registration platform for a deadlift competition
+- [**React A→Z Revision**](https://github.com/Aniketkole27/React-Revision-A-Z) — phase-by-phase React learning and interview revision guide
 
 ---
 
@@ -61,7 +65,7 @@ New day. New build. I explore full-stack architecture end to end — from databa
 <img src="https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD" />
 <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
 <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" />
-<img src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101" />
+<img src="https://img.shields.io/badge/Socket.io-black.svg?style=for-the-badge&logo=socket.io&badgeColor=010101" />
 </p>
 
 **Tools**
@@ -71,6 +75,10 @@ New day. New build. I explore full-stack architecture end to end — from databa
 <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" />
 </p>
 
+### 📫 Connect
+
+- [LinkedIn](https://www.linkedin.com/in/aniket-kole-2932a526a)
+- [X](https://x.com/AniketKole36895)
 
 <p align="center">
   <a href="https://visitcount.itsvg.in">
@@ -78,4 +86,4 @@ New day. New build. I explore full-stack architecture end to end — from databa
   </a>
 </p>
 
-<p align="center"><i>Thanks for stopping by — always open to connecting and collaborating!</i></p>
+<p align="center"><i>Thanks for stopping by — always learning, building, and improving.</i></p>
